@@ -13,6 +13,7 @@
          toolbar:
            'undo redo | formatselect | bold italic backcolor | \
            alignleft aligncenter alignright alignjustify | \
+           forecolor backcolor |\
            bullist numlist outdent indent | removeformat | help |\
            table tabledelete | tableprops tablerowprops tablecellprops | tableinsertrowbefore tableinsertrowafter tabledeleterow | tableinsertcolbefore tableinsertcolafter tabledeletecol',
        }"></editor>
