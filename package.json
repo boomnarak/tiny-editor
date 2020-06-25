@@ -7,7 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@tinymce/tinymce-vue": "^3.2.2",
     "core-js": "^3.6.5",
+    "tinymce": "^5.3.2",
     "vue": "^2.6.11"
   },
   "devDependencies": {
