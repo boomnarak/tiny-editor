@@ -11,9 +11,8 @@
            'insertdatetime media table paste code help wordcount'
          ],
          toolbar:
-           'undo redo | formatselect | bold italic backcolor | \
+           'undo redo | formatselect | bold italic backcolor forecolor | \
            alignleft aligncenter alignright alignjustify | \
-           forecolor backcolor |\
            bullist numlist outdent indent | removeformat | help |\
            table tabledelete | tableprops tablerowprops tablecellprops | tableinsertrowbefore tableinsertrowafter tabledeleterow | tableinsertcolbefore tableinsertcolafter tabledeletecol',
        }"></editor>
